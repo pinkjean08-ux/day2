@@ -10,7 +10,7 @@ import streamlit as st
 # 페이지 설정
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="서울시 영유아·어린이집 공급 현황",
+    page_title="서울시 영유아·어린이집 과부족 현황",
     page_icon="🏫",
     layout="wide",
 )
